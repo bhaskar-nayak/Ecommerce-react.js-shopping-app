@@ -1,104 +1,78 @@
-A production-ready full-stack e-commerce platform built using React.js + Redux Toolkit on the frontend and Spring Boot on the backend.
-The application supports user authentication, product management, cart functionality, and secure payment integration using Razorpay, with scalable architecture and clean code practices.
+## 🛒 Project Overview
 
-🚀 Live Demo
-*Frontend: <YOUR_FRONTEND_DEPLOYMENT_URL>
-Backend API: <YOUR_BACKEND_DEPLOYMENT_URL>
+- A production-ready full-stack e-commerce platform built using **React.js + Redux Toolkit** on the frontend
+- Backend powered by **Spring Boot**
+- Supports secure, scalable, and maintainable architecture
+- Includes user authentication, product management, cart functionality, and **Razorpay payment integration**
 
-🧩 Features
-👤 User Management
+---
 
-User registration & login
+## 🚀 Live Demo
 
-Secure authentication & authorization
+- **Frontend:** <YOUR_FRONTEND_DEPLOYMENT_URL>
+- **Backend API:** <YOUR_BACKEND_DEPLOYMENT_URL>
 
-Persistent login sessions
+---
 
-🛍️ Product Management
+## 🧩 Features
 
-Product listing with images
+### 👤 User Management
+- User registration & login
+- Secure authentication & authorization
+- Persistent login sessions
 
-Product details page
+### 🛍️ Product Management
+- Product listing with images
+- Product details page
+- Category-based browsing
+- Backend CRUD APIs
 
-Category-based browsing
+### 🛒 Cart & Checkout
+- Add/remove products from cart
+- Quantity management
+- Price calculation
+- Order summary
 
-Backend CRUD APIs
+### 💳 Payment Integration
+- Razorpay payment gateway
+- Secure checkout flow
+- Payment verification via backend
 
-🛒 Cart & Checkout
+### ⚙️ Additional Features
+- Code splitting with `React.lazy` & `Suspense`
+- Centralized state management using Redux Toolkit
+- RESTful API architecture
+- Email notifications using SendGrid
+- Logging using SLF4J
+- API testing with Postman
 
-Add/remove products from cart
+---
 
-Quantity management
+## 🏗️ Tech Stack
 
-Price calculation
+### Frontend
+- React.js
+- Redux Toolkit
+- React Router
+- Code Splitting & Lazy Loading
+- Axios
+- Create React App
 
-Order summary
+### Backend
+- Spring Boot
+- Spring Data JPA
+- Hibernate ORM
+- REST APIs
+- Razorpay SDK
+- SendGrid (Email Service)
+- SLF4J Logging
 
-💳 Payment Integration
+### Database
+- Relational Database (MySQL / PostgreSQL)
 
-Razorpay payment gateway
-
-Secure checkout flow
-
-Payment verification via backend
-
-⚙️ Additional Features
-
-Code splitting with React.lazy & Suspense
-
-Centralized state management with Redux Toolkit
-
-RESTful APIs
-
-Email notifications using SendGrid
-
-Logging using SLF4J
-
-API testing with Postman
-
-🏗️ Tech Stack
-Frontend
-
-React.js
-
-Redux Toolkit
-
-React Router
-
-Code Splitting & Lazy Loading
-
-Axios
-
-Create React App
-
-Backend
-
-Spring Boot
-
-Spring Data JPA
-
-Hibernate ORM
-
-REST APIs
-
-Razorpay SDK
-
-SendGrid (Email Service)
-
-SLF4J Logging
-
-Database
-
-Relational Database (MySQL / PostgreSQL)
-
-Tools & DevOps
-
-Postman
-
-Git & GitHub
-
-Maven
-
-npm
-
-Environment-based configuration
+### Tools & DevOps
+- Postman
+- Git & GitHub
+- Maven
+- npm
+- Environment-based configuration
