@@ -3,9 +3,9 @@ The application supports user authentication, product management, cart functiona
 
 🚀 Live Demo
 
-Frontend: <YOUR_FRONTEND_DEPLOYMENT_URL>
+-Frontend: <YOUR_FRONTEND_DEPLOYMENT_URL>
 
-Backend API: <YOUR_BACKEND_DEPLOYMENT_URL>
+-Backend API: <YOUR_BACKEND_DEPLOYMENT_URL>
 
 🧩 Features
 👤 User Management
