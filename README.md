@@ -9,7 +9,7 @@
 
 ## 🚀 Live Demo
 
-- **Frontend:** <YOUR_FRONTEND_DEPLOYMENT_URL>
+- **Frontend:** <https://ecom-shoppingapp.netlify.app/>
 - **Backend API:** <YOUR_BACKEND_DEPLOYMENT_URL>
 
 ---
