@@ -2,7 +2,7 @@ A production-ready full-stack e-commerce platform built using React.js + Redux T
 The application supports user authentication, product management, cart functionality, and secure payment integration using Razorpay, with scalable architecture and clean code practices.
 
 🚀 Live Demo
-Frontend: <YOUR_FRONTEND_DEPLOYMENT_URL>
+*Frontend: <YOUR_FRONTEND_DEPLOYMENT_URL>
 Backend API: <YOUR_BACKEND_DEPLOYMENT_URL>
 
 🧩 Features
