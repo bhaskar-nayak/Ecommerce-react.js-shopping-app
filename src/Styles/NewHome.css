@@ -1,0 +1,29 @@
+/* Default for larger screens (laptops and desktops) */
+.newContainer .newRow {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .newContainer .newRow .col-sm-3 {
+    width: 23%; /* For 4 cards in a row */
+    margin-bottom: 20px;
+  }
+  .textDescrip{
+    font-weight: 100;
+  }
+  /* For smaller screens (mobile view) */
+  @media (max-width: 767px) {
+    .newContainer .newRow .col-sm-3 {
+      width: 48%; /* For 2 cards in a row on mobile */
+      margin-bottom: 20px;
+    }
+  }
+  
+  /* Optional: For tablets (between mobile and laptop) */
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .newContainer .newRow .col-sm-3 {
+      width: 48%; /* You can adjust this if you want two cards in tablet view as well */
+    }
+  }
+  

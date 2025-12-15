@@ -1,0 +1,18 @@
+.checkout-button {
+    background-color: #004A55; /* Change to your desired color */
+    color: #ffffff; /* Text color */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .checkout-button:disabled {
+    opacity: 0.5; /* Make it look disabled */
+    cursor: not-allowed;
+  }
+  
+  .checkout-button:hover:not(:disabled) {
+    background-color: #003043; /* Darker shade on hover */
+  }

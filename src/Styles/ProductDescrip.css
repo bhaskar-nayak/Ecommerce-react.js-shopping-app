@@ -1,0 +1,27 @@
+.decription-details{
+    font-weight: 400;
+}
+.descriptions1:hover{
+    text-decoration: underline;
+}
+.descriptions2 {
+    margin-right: 70px;
+    position: relative; /* Needed for positioning the pseudo-element */
+}
+
+.descriptions2:hover {
+    text-decoration: underline; /* This keeps the underline on hover */
+}
+.descriptions3{
+    margin-right: 50px;
+    position: relative;
+}
+.descriptions3:hover{
+    text-decoration: underline;
+}
+.descriptions4{
+    margin-right: 135px;
+}
+.descriptions4:hover{
+    text-decoration: underline;
+}
