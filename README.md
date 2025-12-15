@@ -1,70 +1,106 @@
-# Getting Started with Create React App
+A production-ready full-stack e-commerce platform built using React.js + Redux Toolkit on the frontend and Spring Boot on the backend.
+The application supports user authentication, product management, cart functionality, and secure payment integration using Razorpay, with scalable architecture and clean code practices.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 Live Demo
 
-## Available Scripts
+Frontend: <YOUR_FRONTEND_DEPLOYMENT_URL>
 
-In the project directory, you can run:
+Backend API: <YOUR_BACKEND_DEPLOYMENT_URL>
 
-### `npm start`
+🧩 Features
+👤 User Management
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+User registration & login
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Secure authentication & authorization
 
-### `npm test`
+Persistent login sessions
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🛍️ Product Management
 
-### `npm run build`
+Product listing with images
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Product details page
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Category-based browsing
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Backend CRUD APIs
 
-### `npm run eject`
+🛒 Cart & Checkout
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Add/remove products from cart
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Quantity management
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Price calculation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Order summary
 
-## Learn More
+💳 Payment Integration
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Razorpay payment gateway
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Secure checkout flow
 
-### Code Splitting
+Payment verification via backend
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+⚙️ Additional Features
 
-### Analyzing the Bundle Size
+Code splitting with React.lazy & Suspense
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Centralized state management with Redux Toolkit
 
-### Making a Progressive Web App
+RESTful APIs
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Email notifications using SendGrid
 
-### Advanced Configuration
+Logging using SLF4J
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+API testing with Postman
 
-### Deployment
+🏗️ Tech Stack
+Frontend
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+React.js
 
-### `npm run build` fails to minify
+Redux Toolkit
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+React Router
+
+Code Splitting & Lazy Loading
+
+Axios
+
+Create React App
+
+Backend
+
+Spring Boot
+
+Spring Data JPA
+
+Hibernate ORM
+
+REST APIs
+
+Razorpay SDK
+
+SendGrid (Email Service)
+
+SLF4J Logging
+
+Database
+
+Relational Database (MySQL / PostgreSQL)
+
+Tools & DevOps
+
+Postman
+
+Git & GitHub
+
+Maven
+
+npm
+
+Environment-based configuration
