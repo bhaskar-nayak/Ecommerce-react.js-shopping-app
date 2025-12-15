@@ -99,38 +99,38 @@
 ### 🔐 User Authentication
 
 - **Login Page**  
-  ![Login Page](https://github.com/bhaskar-nayak/Ecommerce-react.js-shopping-app/blob/main/Screenshot%20(20).png)
+  ![Login Page](https://github.com/bhaskar-nayak/Ecommerce-react.js-shopping-app/blob/main/Screenshot%20(19).png)
 
 - **Register Page**  
-  ![Register Page](./screenshots/register.png)
+  ![Register Page](https://github.com/bhaskar-nayak/Ecommerce-react.js-shopping-app/blob/main/Screenshot%20(20).png)
 
 ---
 
 ### 🏠 Home / Landing Page
 
 - **Home Page**  
-  ![Home Page](./screenshots/home.png)
+  ![Home Page](https://github.com/bhaskar-nayak/Ecommerce-react.js-shopping-app/blob/main/Screenshot%20(11).png)
 
 ---
 
 ### 🛍️ Product Listing
 
 - **Products Page**  
-  ![Product Listing](./screenshots/products.png)
+  ![Product Listing](https://github.com/bhaskar-nayak/Ecommerce-react.js-shopping-app/blob/main/Screenshot%20(10).png)
 
 ---
 
 ### 📦 Product Details
 
 - **Product Details Page**  
-  ![Product Details](./screenshots/product-details.png)
+  ![Product Details](https://github.com/bhaskar-nayak/Ecommerce-react.js-shopping-app/blob/main/Screenshot%20(15).png)
 
 ---
 
 ### 🛒 Shopping Cart
 
 - **Cart Page**  
-  ![Shopping Cart](./screenshots/cart.png)
+  ![Shopping Cart](https://github.com/bhaskar-nayak/Ecommerce-react.js-shopping-app/blob/main/Screenshot%20(16).png)
 
 ---
 
