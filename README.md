@@ -85,7 +85,7 @@
 - Service contains business logic
 - Repository interacts with database
 - Response is returned as JSON
-- 
+  
 ### Key Architecture Highlights
 - Frontend uses **lazy loading** to reduce initial bundle size
 - Backend follows **layered architecture**  
@@ -99,7 +99,7 @@
 ### 🔐 User Authentication
 
 - **Login Page**  
-  ![Login Page](./screenshots/login.png)
+  ![Login Page](https://github.com/bhaskar-nayak/Ecommerce-react.js-shopping-app/blob/main/Screenshot%20(20).png)
 
 - **Register Page**  
   ![Register Page](./screenshots/register.png)
