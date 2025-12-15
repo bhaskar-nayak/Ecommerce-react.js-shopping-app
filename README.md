@@ -76,3 +76,67 @@
 - Maven
 - npm
 - Environment-based configuration
+- # Spring Boot + ReactJS Application Flow (Products)
+
+## 🧩 Architecture Overview
+- ReactJS sends HTTP requests
+- DispatcherServlet receives all requests
+- Controller handles the request
+- Service contains business logic
+- Repository interacts with database
+- Response is returned as JSON
+- 
+### Key Architecture Highlights
+- Frontend uses **lazy loading** to reduce initial bundle size
+- Backend follows **layered architecture**  
+  (Controller → Service → Repository)
+- Secure payment processing handled **server-side**
+
+---
+
+## 📸 Screenshots
+
+### 🔐 User Authentication
+
+- **Login Page**  
+  ![Login Page](./screenshots/login.png)
+
+- **Register Page**  
+  ![Register Page](./screenshots/register.png)
+
+---
+
+### 🏠 Home / Landing Page
+
+- **Home Page**  
+  ![Home Page](./screenshots/home.png)
+
+---
+
+### 🛍️ Product Listing
+
+- **Products Page**  
+  ![Product Listing](./screenshots/products.png)
+
+---
+
+### 📦 Product Details
+
+- **Product Details Page**  
+  ![Product Details](./screenshots/product-details.png)
+
+---
+
+### 🛒 Shopping Cart
+
+- **Cart Page**  
+  ![Shopping Cart](./screenshots/cart.png)
+
+---
+
+### 💳 Payment (Razorpay)
+
+- **Payment Checkout Page**  
+  ![Payment](./screenshots/payment.png)
+
+
